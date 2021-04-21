@@ -10,16 +10,9 @@
   </panel>
   
   <panel>
-    <number>2</number>
-    <image>https://sample.com/image2.jpg</image>
-    <url>https://sample.com/news</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <number>1</number>
+    <image>https://github.com/amichaelwagner/jacapps-files/blob/master/placeholder2.jpg?raw=true</image>
+    <url>https://sample.com/updatedFile</url>
     <redirect>n</redirect>
   </panel>
 
