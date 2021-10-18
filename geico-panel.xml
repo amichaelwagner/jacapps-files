@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://github.com/amichaelwagner/jacapps-files/blob/master/placeholder1.jpg?raw=true</image>
+    <url>https://sample.com/updatedFile</url>
+    <redirect>n</redirect>
+  </panel>
+
+
+</rotator>
