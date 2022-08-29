@@ -8,6 +8,13 @@
     <url>https://geico.com</url>
     <redirect>n</redirect>
   </panel>
+  
+  <panel>
+    <number>1</number>
+    <image>https://github.com/amichaelwagner/jacapps-files/blob/master/placeholder1.jpg?raw=true</image>
+    <url>https://sample.com/updatedFile</url>
+    <redirect>n</redirect>
+  </panel>
 
 
 </rotator>
